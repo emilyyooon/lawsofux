@@ -1,0 +1,99 @@
+html, body {
+  background-color: #A5EDE4;
+}
+
+
+.s1 {
+  height: 305px;
+  width: 305px;
+  margin-top: 1.5rem;
+  margin-left: 1rem;
+  background-color: #33ABB2;
+}
+
+.s2 {
+  height: 215px;
+  width: 215px;
+  margin-top: -19rem;
+  margin-left: 20.75rem;
+  background-color: #33ABB2;
+}
+
+.s3 {
+  height: 110px;
+  width: 110px;
+  margin-top: 6.5rem;
+  margin-left: 13.2rem;
+  background-color: #33ABB2;
+}
+
+.s4 {
+  height: 150px;
+  width: 150px;
+  margin-top: -12.5rem;
+  margin-left: 20.75rem;
+  background-color: #33ABB2;
+}
+
+.s5 {
+  height: 150px;
+  width: 150px;
+  margin-top: 16rem;
+  margin-left: 78.5rem;
+  background-color: #33ABB2;
+}
+
+.s6 {
+  height: 150px;
+  width: 150px;
+  margin-top: -19.5rem;
+  margin-left: 78.5rem;
+  background-color: #33ABB2;
+}
+
+.s7 {
+  height: 150px;
+  width: 150px;
+  margin-top: .75rem;
+  margin-left: 68.25rem;
+  background-color: #33ABB2;
+}
+
+.link {
+  position: absolute;
+  width: 150px;
+  height: 150px;
+}
+
+.s8 {
+  height: 150px;
+  width: 150px;
+  margin-top: 41.5rem;
+  margin-left: 1rem;
+  background-color: #33ABB2;
+}
+
+.s9 {
+  height: 150px;
+  width: 150px;
+  margin-top: -19.5rem;
+  margin-left: 1rem;
+  background-color: #33ABB2;
+}
+
+.s10 {
+  height: 150px;
+  width: 150px;
+  margin-top: .75rem;
+  margin-left: 11.25rem;
+  background-color: #33ABB2;
+}
+
+.text {
+  margin-top: -50rem;
+  margin-right: 1rem;
+  text-align: right;
+  padding-left: 50rem;
+  color: #33ABB2;
+  font-family: Helvetica, sans-serif;
+}
